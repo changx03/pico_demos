@@ -11,8 +11,8 @@ Download `MicroPython` from here: <https://micropython.org/download/>
 1. Install extension: `paulober.pico-w-go`
 1. Press `F1`, then select "MicroPython: Configure project"
 1. Reconnect **Raspberry Pi Pico**
-1. On the **left bottom" of VS Code, "x Pico Disconnected" should become "✓ Pico Connected".
-1. Press **Run** button next to "✓ Pico Connected" to run your Micro Python code.
+1. On the **left bottomm** of VS Code, "x Pico Disconnected" should become "&#x2713; Pico Connected".
+1. Press **&#9658;Run** button next to "&#x2713; Pico Connected" to run your Micro Python code.
 
 ## List of examples
 
